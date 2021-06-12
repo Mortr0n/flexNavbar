@@ -44,10 +44,11 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
 }
+
 ul {
     display: flex;
     flex-wrap: wrap;
-    justify-content:space-around;
+    justify-content: space-around;
     list-style-type: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
